@@ -5,3 +5,7 @@
 body {
   @apply bg-zinc-900 text-zinc-100;
 }
+
+.title {
+  @apply text-lg font-bold text-violet-500
+}
